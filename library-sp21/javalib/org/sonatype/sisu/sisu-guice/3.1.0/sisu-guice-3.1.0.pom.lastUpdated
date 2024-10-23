@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 20 13:53:22 EET 2024
+https\://oss.sonatype.org/content/repositories/codehaus-snapshots/.error=
+https\://oss.sonatype.org/content/repositories/codehaus-snapshots/.lastUpdated=1708430002401
+https\://repo.maven.apache.org/maven2/.lastUpdated=1708430002480

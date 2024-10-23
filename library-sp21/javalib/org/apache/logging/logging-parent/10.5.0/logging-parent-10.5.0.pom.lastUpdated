@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 20 14:24:41 EET 2024
+@default-nexus-codehaus-snapshot-https\://oss.sonatype.org/content/repositories/codehaus-snapshots/.lastUpdated=1708431881374
+https\://oss.sonatype.org/content/repositories/codehaus-snapshots/.error=Could not transfer artifact org.apache.logging\:logging-parent\:pom\:10.5.0 from/to nexus-codehaus-snapshot (https\://oss.sonatype.org/content/repositories/codehaus-snapshots/)\: Read timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1708431881778
